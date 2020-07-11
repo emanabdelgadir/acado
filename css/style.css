@@ -29,7 +29,7 @@ a {
 
 .btn {
     padding: .5rem 1rem;
-    background: #006669;
+    background: #1338be;
     color: white;
     border: 1px solid transparent;
     border-radius: .25rem;
@@ -44,7 +44,7 @@ a {
 
 .btn:hover {
     color: white !important;
-    background: #006669;
+    background: #051094;
 }
 
 .text-input {
@@ -82,7 +82,7 @@ a {
 
 /*NAVBAR*/
 header {
-    background: #008489;
+    background: #1338be;
     height: 66px;
 }
 
@@ -102,7 +102,7 @@ header .logo-text {
 }
 
 header .logo-text span {
-    color: #00e9f1;
+    color: #63c5da;
 }
 
 header ul {
@@ -156,7 +156,7 @@ header ul li a {
 }
 
 header ul li a:hover {
-    background: #006669;
+    background: #051094;
     transition: 0.3s;
 }
 
@@ -169,7 +169,7 @@ header .menu-toggle {
 }
 
 .page-wrapper a:hover {
-    color: #006669;
+    color: #051094;
 }
 
 /*post slider*/
@@ -186,7 +186,7 @@ header .menu-toggle {
     top: 50%;
     right: 30px;
     font-size: 2em;
-    color: #006669;
+    color: #1338be;
     cursor: pointer;
 }
 
@@ -195,7 +195,7 @@ header .menu-toggle {
     top: 50%;
     left: 30px;
     font-size: 2em;
-    color: #006669;
+    color: #1338be;
     cursor: pointer;
 }
 
@@ -278,14 +278,14 @@ header .menu-toggle {
     position: absolute;
     bottom: 10px;
     right: 10px;
-    border: 1px solid #006669;
-    color: #006669 !important;
+    border: 1px solid #1338be;
+    color: #1338be !important;
     background: transparent;
     border-radius: 0px;
 }
 
 .content .main-content .post .read-more:hover {
-    background-color: #006669;
+    background-color: #051094;
     color: white !important;
     transition: .25s;
 }
@@ -545,7 +545,7 @@ header .menu-toggle {
         padding-left: 50px;
     }
     header ul li ul li a:hover {
-        background: #006669;
+        background: #051094;
     }
     
     header ul li ul li a.logout {
